@@ -59,5 +59,6 @@ TODO: Add long description of the pod here.
 
   s.libraries = ['z', 'c++']
 
-  s.dependency 'AMapFoundation', '~> 1.7.0'
+  # s.dependency 'AMapFoundation', '~> 1.7.0'
+  s.dependency 'UXAMapFoundation', '~> 1.4.0'
 end
